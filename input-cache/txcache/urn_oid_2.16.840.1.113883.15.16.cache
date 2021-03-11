@@ -1,0 +1,573 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "TX"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"TX\"); The code provided (urn:oid:2.16.840.1.113883.15.16#TX) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T0"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T0\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T0) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "Tis"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"Tis\"); The code provided (urn:oid:2.16.840.1.113883.15.16#Tis) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "Tis(LAMN)"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"Tis(LAMN)\"); The code provided (urn:oid:2.16.840.1.113883.15.16#Tis(LAMN)) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "Tis(DCIS)"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"Tis(DCIS)\"); The code provided (urn:oid:2.16.840.1.113883.15.16#Tis(DCIS)) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "Tis(LCIS)"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"Tis(LCIS)\"); The code provided (urn:oid:2.16.840.1.113883.15.16#Tis(LCIS)) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "Tis(Tis(Paget)"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"Tis(Tis(Paget)\"); The code provided (urn:oid:2.16.840.1.113883.15.16#Tis(Tis(Paget)) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "Ta"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"Ta\"); The code provided (urn:oid:2.16.840.1.113883.15.16#Ta) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1mi"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1mi\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1mi) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1a"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1a\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1a) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1a1"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1a1\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1a1) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1a2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1a2\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1a2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1b"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1b\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1b) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1b1"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1b1\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1b1) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1b2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1b2\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1b2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1c"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1c\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1c) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1c1"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1c1\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1c1) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1c2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1c2\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1c2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1c3"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1c3\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1c3) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T1d"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T1d\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T1d) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T2\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T2a"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T2a\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T2a) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T2a1"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T2a1\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T2a1) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T2a2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T2a2\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T2a2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T2b"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T2b\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T2b) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T2c"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T2c\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T2c) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T2d"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T2d\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T2d) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T3"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T3\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T3) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T3a"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T3a\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T3a) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T3b"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T3b\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T3b) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T3c"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T3c\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T3c) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T3d"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T3d\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T3d) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T3e"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T3e\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T3e) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T4"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T4\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T4) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T4a"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T4a\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T4a) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T4b"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T4b\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T4b) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T4c"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T4c\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T4c) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T4d"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T4d\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T4d) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:2.16.840.1.113883.15.16",
+  "code" : "T4e"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:2.16.840.1.113883.15.16\" is not known (encountered paired with code = \"T4e\"); The code provided (urn:oid:2.16.840.1.113883.15.16#T4e) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "include" : [{
+      "system" : "urn:oid:2.16.840.1.113883.15.16",
+      "concept" : [{
+        "code" : "TX",
+        "display" : "TX"
+      },
+      {
+        "code" : "T0",
+        "display" : "T0"
+      },
+      {
+        "code" : "Tis",
+        "display" : "Tis"
+      },
+      {
+        "code" : "Tis(LAMN)",
+        "display" : "Tis (LAMN)"
+      },
+      {
+        "code" : "Tis(DCIS)",
+        "display" : "Tis (DCIS)"
+      },
+      {
+        "code" : "Tis(LCIS)",
+        "display" : "Tis (LCIS)"
+      },
+      {
+        "code" : "Tis(Tis(Paget)",
+        "display" : "Tis (Paget)"
+      },
+      {
+        "code" : "Ta",
+        "display" : "Ta"
+      },
+      {
+        "code" : "T1",
+        "display" : "T1"
+      },
+      {
+        "code" : "T1mi",
+        "display" : "T1mi"
+      },
+      {
+        "code" : "T1a",
+        "display" : "T1a"
+      },
+      {
+        "code" : "T1a1",
+        "display" : "T1a1"
+      },
+      {
+        "code" : "T1a2",
+        "display" : "T1a2"
+      },
+      {
+        "code" : "T1b",
+        "display" : "T1b"
+      },
+      {
+        "code" : "T1b1",
+        "display" : "T1b1"
+      },
+      {
+        "code" : "T1b2",
+        "display" : "T1b2"
+      },
+      {
+        "code" : "T1c",
+        "display" : "T1c"
+      },
+      {
+        "code" : "T1c1",
+        "display" : "T1c1"
+      },
+      {
+        "code" : "T1c2",
+        "display" : "T1c2"
+      },
+      {
+        "code" : "T1c3",
+        "display" : "T1c3"
+      },
+      {
+        "code" : "T1d",
+        "display" : "T1d"
+      },
+      {
+        "code" : "T2",
+        "display" : "T2"
+      },
+      {
+        "code" : "T2a",
+        "display" : "T2a"
+      },
+      {
+        "code" : "T2a1",
+        "display" : "T2a1"
+      },
+      {
+        "code" : "T2a2",
+        "display" : "T2a2"
+      },
+      {
+        "code" : "T2b",
+        "display" : "T2b"
+      },
+      {
+        "code" : "T2c",
+        "display" : "T2c"
+      },
+      {
+        "code" : "T2d",
+        "display" : "T2d"
+      },
+      {
+        "code" : "T3",
+        "display" : "T3"
+      },
+      {
+        "code" : "T3a",
+        "display" : "T3a"
+      },
+      {
+        "code" : "T3b",
+        "display" : "T3b"
+      },
+      {
+        "code" : "T3c",
+        "display" : "T3c"
+      },
+      {
+        "code" : "T3d",
+        "display" : "T3d"
+      },
+      {
+        "code" : "T3e",
+        "display" : "T3e"
+      },
+      {
+        "code" : "T4",
+        "display" : "T4"
+      },
+      {
+        "code" : "T4a",
+        "display" : "T4a"
+      },
+      {
+        "code" : "T4b",
+        "display" : "T4b"
+      },
+      {
+        "code" : "T4c",
+        "display" : "T4c"
+      },
+      {
+        "code" : "T4d",
+        "display" : "T4d"
+      },
+      {
+        "code" : "T4e",
+        "display" : "T4e"
+      }]
+    }]
+  }
+}}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system urn:oid:2.16.840.1.113883.15.16"
+}
+-------------------------------------------------------------------------------------

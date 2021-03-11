@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "coding" : [{
+    "system" : "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
+    "code" : "GACH",
+    "display" : "Hospitals; General Acute Care Hospital"
+  }]
+}, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "include" : [{
+      "system" : "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
+      "filter" : [{
+        "property" : "concept",
+        "op" : "descendent-of",
+        "value" : "_ServiceDeliveryLocationRoleType"
+      }]
+    }]
+  }
+}, "lang":"null", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"CHECK_MEMERSHIP_ONLY"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The display \"Hospitals; General Acute Care Hospital\" is not a valid display for the code ,{http://terminology.hl7.org/CodeSystem/v3-RoleCode}GACH - should be one of [\"General acute care hospital\"]; The code provided (http://terminology.hl7.org/CodeSystem/v3-RoleCode#GACH) is not valid in the value set 'ServiceDeliveryLocationRoleType' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------

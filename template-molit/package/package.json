@@ -1,0 +1,13 @@
+{
+  "name": "molit.fhir.template",
+  "version": "0.2.0",
+  "type": "fhir.template",
+  "license": "Apache 2.0",
+  "description": "MOLIT FHIR IG Template",
+  "author": "http://molit.eu",
+  "canonical": "http://fhir.org/templates/molit.fhir.template",
+  "base":  "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+}

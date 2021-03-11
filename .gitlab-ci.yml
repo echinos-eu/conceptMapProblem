@@ -1,0 +1,63 @@
+image: docker-registry.molit.local:5000/ig-pipeline
+
+# Cache libraries in between jobs
+#cache:
+#  key: one-key-to-rule-them-all
+#  paths:
+#    - input-cache/
+
+stages:
+  - setup
+  - build
+  - deploy
+
+prepare:
+  stage: setup
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+  script: 
+    - npm install -g fsh-sushi
+  tags: 
+    - docker
+
+build:
+  stage: build
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+  before_script:
+    - export _JAVA_OPTIONS="-Xmx6g -Xms4g"
+  script:
+    - npm install -g fsh-sushi
+    - chmod +x ./_updatePublisher.sh
+    - chmod +x ./_genonce.sh
+    #- ./_updatePublisher.sh -y
+    - ./_genonce.sh
+  artifacts:
+    name: "$CI_PROJECT_NAME"
+    paths:
+      - output/
+  tags: 
+    - docker
+
+pages:
+  stage: deploy
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+  script:
+    - mkdir public
+    - cp -r output/* public
+    - cp public/index.html public/404.html
+  artifacts:
+    paths:
+      - public
+  #rules:
+  #  - if: $CI_MERGE_REQUEST_ID
+  #    when: never # Ignore detached head jobs created by merge requests.
+  #  - if: '$CI_COMMIT_REF_NAME == "master"'
+  #    when: on_success
+  #  - if: '$CI_MERGE_REQUEST_ID != ""'
+  #    when: manual
+  #    allow_failure: true
+  #  - when: manual
+  tags:
+    - docker

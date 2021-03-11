@@ -1,0 +1,25 @@
+{
+  "package-id": "molitVITU",
+  "canonical": "http://molit.eu/fhir/",
+  "title": "Clinical Trial Implementation Guide",
+  "introduction": "An Implementation Guide for a FHIR based clinical trial management",
+  "list": [
+    {
+      "version": "current",
+      "desc": "Continuous Integration Build (latest in version control)",
+      "path": "http://build.fhir.org/ig/example/example-ig",
+      "status": "draft",
+      "current": true
+    },
+    {
+      "version": "0.0.1",
+      "date": "2020-01-01",
+      "desc": "Initial STU ballot (Mmm yyyy Ballot)",
+      "path": "http://example.org/fhir/STU1",
+      "status": "ballot",
+      "sequence": "STU 1",
+      "fhirversion": "4.0.1",
+      "current": true
+    }
+  ]
+}

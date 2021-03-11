@@ -1,0 +1,83 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:1.3.6.1.4.1.19376.1.3.11.44",
+  "code" : "N0"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:1.3.6.1.4.1.19376.1.3.11.44\" is not known (encountered paired with code = \"N0\"); The code provided (urn:oid:1.3.6.1.4.1.19376.1.3.11.44#N0) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:1.3.6.1.4.1.19376.1.3.11.44",
+  "code" : "N1"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:1.3.6.1.4.1.19376.1.3.11.44\" is not known (encountered paired with code = \"N1\"); The code provided (urn:oid:1.3.6.1.4.1.19376.1.3.11.44#N1) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:1.3.6.1.4.1.19376.1.3.11.44",
+  "code" : "N2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:1.3.6.1.4.1.19376.1.3.11.44\" is not known (encountered paired with code = \"N2\"); The code provided (urn:oid:1.3.6.1.4.1.19376.1.3.11.44#N2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:1.3.6.1.4.1.19376.1.3.11.44",
+  "code" : "N3"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:1.3.6.1.4.1.19376.1.3.11.44\" is not known (encountered paired with code = \"N3\"); The code provided (urn:oid:1.3.6.1.4.1.19376.1.3.11.44#N3) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "urn:oid:1.3.6.1.4.1.19376.1.3.11.44",
+  "code" : "Nx"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"urn:oid:1.3.6.1.4.1.19376.1.3.11.44\" is not known (encountered paired with code = \"Nx\"); The code provided (urn:oid:1.3.6.1.4.1.19376.1.3.11.44#Nx) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "include" : [{
+      "system" : "urn:oid:1.3.6.1.4.1.19376.1.3.11.44",
+      "concept" : [{
+        "code" : "N0",
+        "display" : "N0"
+      },
+      {
+        "code" : "N1",
+        "display" : "N1"
+      },
+      {
+        "code" : "N2",
+        "display" : "N2"
+      },
+      {
+        "code" : "N3",
+        "display" : "N3"
+      },
+      {
+        "code" : "Nx",
+        "display" : "Nx"
+      }]
+    }]
+  }
+}}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system urn:oid:1.3.6.1.4.1.19376.1.3.11.44"
+}
+-------------------------------------------------------------------------------------

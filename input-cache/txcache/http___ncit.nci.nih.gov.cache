@@ -1,0 +1,515 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C2852"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C2852\"); The code provided (http://ncit.nci.nih.gov#C2852) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C3868"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C3868\"); The code provided (http://ncit.nci.nih.gov#C3868) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C2916"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C2916\"); The code provided (http://ncit.nci.nih.gov#C2916) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C4445"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C4445\"); The code provided (http://ncit.nci.nih.gov#C4445) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C27720"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C27720\"); The code provided (http://ncit.nci.nih.gov#C27720) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C4917"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C4917\"); The code provided (http://ncit.nci.nih.gov#C4917) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C45634"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C45634\"); The code provided (http://ncit.nci.nih.gov#C45634) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C4450"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C4450\"); The code provided (http://ncit.nci.nih.gov#C4450) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C3727"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C3727\"); The code provided (http://ncit.nci.nih.gov#C3727) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C2915"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C2915\"); The code provided (http://ncit.nci.nih.gov#C2915) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C159613"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C159613\"); The code provided (http://ncit.nci.nih.gov#C159613) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C2929"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C2929\"); The code provided (http://ncit.nci.nih.gov#C2929) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C3224"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C3224\"); The code provided (http://ncit.nci.nih.gov#C3224) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C9118"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C9118\"); The code provided (http://ncit.nci.nih.gov#C9118) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C3709"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C3709\"); The code provided (http://ncit.nci.nih.gov#C3709) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C3708"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C3708\"); The code provided (http://ncit.nci.nih.gov#C3708) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C3809"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C3809\"); The code provided (http://ncit.nci.nih.gov#C3809) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C3766"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C3766\"); The code provided (http://ncit.nci.nih.gov#C3766) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C14166"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C14166\"); The code provided (http://ncit.nci.nih.gov#C14166) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C32313"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C32313\"); The code provided (http://ncit.nci.nih.gov#C32313) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C4912"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C4912\"); The code provided (http://ncit.nci.nih.gov#C4912) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "include" : [{
+      "system" : "http://ncit.nci.nih.gov",
+      "concept" : [{
+        "code" : "C2929",
+        "display" : "Plattenepithelkarzinom"
+      },
+      {
+        "code" : "C2852",
+        "display" : "Adenokarzinom"
+      },
+      {
+        "code" : "C3868",
+        "display" : "GIST"
+      },
+      {
+        "code" : "C2916",
+        "display" : "Karzinom"
+      },
+      {
+        "code" : "C3809",
+        "display" : "NET"
+      },
+      {
+        "code" : "C4445",
+        "display" : "Exokrin"
+      },
+      {
+        "code" : "C27720",
+        "display" : "Neuroendokrin"
+      },
+      {
+        "code" : "C4917",
+        "display" : "SCLC"
+      },
+      {
+        "code" : "C45634",
+        "display" : "PEC"
+      },
+      {
+        "code" : "C4450",
+        "display" : "Großzelliges Karzinom"
+      },
+      {
+        "code" : "C3727",
+        "display" : "Adenosquamös"
+      },
+      {
+        "code" : "C2915",
+        "display" : "Karzinoid"
+      },
+      {
+        "code" : "C159613",
+        "display" : "Sonstige Histologie"
+      },
+      {
+        "code" : "C2929",
+        "display" : "Plattenepithelkarzinom"
+      },
+      {
+        "code" : "C3224",
+        "display" : "Melanom"
+      },
+      {
+        "code" : "C9118",
+        "display" : "Sarkom"
+      },
+      {
+        "code" : "C3709",
+        "display" : "Epithelialer Tumor"
+      },
+      {
+        "code" : "C3708",
+        "display" : "Keimzelltumor"
+      },
+      {
+        "code" : "C3809",
+        "display" : "Neuroendokriner Tumor"
+      },
+      {
+        "code" : "C3766",
+        "display" : "Klarzellig"
+      },
+      {
+        "code" : "C14166",
+        "display" : "Papillär"
+      },
+      {
+        "code" : "C32313",
+        "display" : "Chromophob"
+      },
+      {
+        "code" : "C4912",
+        "display" : "Urotheliales Karzinom"
+      }]
+    }]
+  }
+}}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://ncit.nci.nih.gov"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : false, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "include" : [{
+      "system" : "http://ncit.nci.nih.gov",
+      "concept" : [{
+        "code" : "C2929",
+        "display" : "Plattenepithelkarzinom"
+      },
+      {
+        "code" : "C2852",
+        "display" : "Adenokarzinom"
+      },
+      {
+        "code" : "C3868",
+        "display" : "GIST"
+      },
+      {
+        "code" : "C2916",
+        "display" : "Karzinom"
+      },
+      {
+        "code" : "C3809",
+        "display" : "NET"
+      },
+      {
+        "code" : "C4445",
+        "display" : "Exokrin"
+      },
+      {
+        "code" : "C27720",
+        "display" : "Neuroendokrin"
+      },
+      {
+        "code" : "C4917",
+        "display" : "SCLC"
+      },
+      {
+        "code" : "C45634",
+        "display" : "PEC"
+      },
+      {
+        "code" : "C4450",
+        "display" : "Großzelliges Karzinom"
+      },
+      {
+        "code" : "C3727",
+        "display" : "Adenosquamös"
+      },
+      {
+        "code" : "C2915",
+        "display" : "Karzinoid"
+      },
+      {
+        "code" : "C159613",
+        "display" : "Sonstige Histologie"
+      },
+      {
+        "code" : "C2929",
+        "display" : "Plattenepithelkarzinom"
+      },
+      {
+        "code" : "C3224",
+        "display" : "Melanom"
+      },
+      {
+        "code" : "C9118",
+        "display" : "Sarkom"
+      },
+      {
+        "code" : "C3709",
+        "display" : "Epithelialer Tumor"
+      },
+      {
+        "code" : "C3708",
+        "display" : "Keimzelltumor"
+      },
+      {
+        "code" : "C3809",
+        "display" : "Neuroendokriner Tumor"
+      },
+      {
+        "code" : "C3766",
+        "display" : "Klarzellig"
+      },
+      {
+        "code" : "C14166",
+        "display" : "Papillär"
+      },
+      {
+        "code" : "C32313",
+        "display" : "Chromophob"
+      },
+      {
+        "code" : "C4912",
+        "display" : "Urotheliales Karzinom"
+      }]
+    }]
+  }
+}}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://ncit.nci.nih.gov"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C14204"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C14204\"); The code provided (http://ncit.nci.nih.gov#C14204) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C14226"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C14226\"); The code provided (http://ncit.nci.nih.gov#C14226) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C112312"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C112312\"); The code provided (http://ncit.nci.nih.gov#C112312) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C154807"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C154807\"); The code provided (http://ncit.nci.nih.gov#C154807) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C16150"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C16150\"); The code provided (http://ncit.nci.nih.gov#C16150) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://ncit.nci.nih.gov",
+  "code" : "C16149"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code system \"http://ncit.nci.nih.gov\" is not known (encountered paired with code = \"C16149\"); The code provided (http://ncit.nci.nih.gov#C16149) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "include" : [{
+      "system" : "http://ncit.nci.nih.gov",
+      "concept" : [{
+        "code" : "C14204",
+        "display" : "Epstein-Barr Virus (EBV)"
+      },
+      {
+        "code" : "C14226",
+        "display" : "Human Papillomavirus (HPV)"
+      },
+      {
+        "code" : "C112312",
+        "display" : "Human Epidermal Growth Factor Receptor 2 Measurement (HER2)"
+      },
+      {
+        "code" : "C154807",
+        "display" : "Programmed Death Ligand 1 Measurement (PDL1)"
+      },
+      {
+        "code" : "C16150",
+        "display" : "Estrogen Receptor Status (ER)"
+      },
+      {
+        "code" : "C16149",
+        "display" : "Progesterone Receptor Status (PR)"
+      }]
+    }]
+  }
+}}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://ncit.nci.nih.gov"
+}
+-------------------------------------------------------------------------------------

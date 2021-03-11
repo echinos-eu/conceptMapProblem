@@ -1,0 +1,15 @@
+﻿{
+  "package-id" : "molit.fhir.template",
+  "title" : "Template for FHIR IGs published by MOLIT",
+  "canonical" : "http://fhir.org/templates/ihe.fhir.template",
+  "introduction" : "This is the template for FHIR guides published by MOLIT",
+  "list" : [
+    {
+      "version" : "1.0",
+      "desc" : "Latest stable",
+      "path" : "https://build.fhir.org/ig/",
+      "status" : "ci-build",
+      "current" : true
+    }
+  ]
+}

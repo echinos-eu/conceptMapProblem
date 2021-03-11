@@ -1,0 +1,43 @@
+{
+  "resourceType": "ValueSet",
+  "id": "LL3639-3",
+  "meta": {
+    "versionId": "3",
+    "lastUpdated": "2020-12-15T11:24:40.300+00:00"
+  },
+  "url": "http://loinc.org/vs/LL3639-3",
+  "identifier": [ {
+    "system": "urn:ietf:rfc:3986",
+    "value": "urn:oid:1.3.6.1.4.1.12009.10.1.2273"
+  } ],
+  "version": "Loinc_2.69",
+  "name": "Positive|Negative|Not tested|Unknown",
+  "status": "active",
+  "publisher": "Regenstrief Institute, Inc.",
+  "contact": [ {
+    "name": "Regenstrief Institute, Inc.",
+    "telecom": [ {
+      "system": "url",
+      "value": "https://loinc.org"
+    } ]
+  } ],
+  "copyright": "This content from LOINC® is copyright © 1995 Regenstrief Institute, Inc. and the LOINC Committee, and available at no cost under the license at https://loinc.org/license/",
+  "compose": {
+    "include": [ {
+      "system": "http://loinc.org",
+      "concept": [ {
+        "code": "LA6576-8",
+        "display": "Positive"
+      }, {
+        "code": "LA6577-6",
+        "display": "Negative"
+      }, {
+        "code": "LA13538-6",
+        "display": "Not tested"
+      }, {
+        "code": "LA4489-6",
+        "display": "Unknown"
+      } ]
+    } ]
+  }
+}

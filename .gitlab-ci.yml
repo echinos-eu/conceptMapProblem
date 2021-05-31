@@ -1,4 +1,4 @@
-image: docker-registry.molit.local:5000/ig-pipeline
+image: docker.intern.molit.eu/ig-pipeline
 
 # Cache libraries in between jobs
 #cache:

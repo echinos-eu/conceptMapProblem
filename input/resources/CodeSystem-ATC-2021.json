@@ -1,13 +1,14 @@
 {
 	"resourceType": "CodeSystem",
+	"id": "",
 	"meta": {
 		"profile": ["http://hl7.org/fhir/StructureDefinition/shareablecodesystem"]
 	},
-	"url": "http://hl7.org/fhir/uv/ips/CodeSystem/whoatc-uv-ips",
-	"version": "V1.0",
-	"name": "WHOATC2021",
+	"url": "http://www.whocc.no/atc",
+	"version": "2021",
+	"name": "WHOATC",
 	"title": "WHO ATC Index List 2021",
-	"status": "active ",
+	"status": "active",
 	"experimental": false,
 	"publisher": "Wissenschaftliches Institut der AOK (WIdO)",
 	"description": "WHO ATC Codes 2021",

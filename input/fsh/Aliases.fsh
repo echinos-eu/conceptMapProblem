@@ -35,10 +35,6 @@ Alias: TNMPRAEFIXCPU = http://molit.eu/fhir/vitu/Extension/praefixcpu
 Alias: LISTSTATCODES = http://hl7.org/fhir/list-status
 Alias: LISTMODECODES = http://hl7.org/fhir/list-mode
 
-//ConceptMap
-Alias: ConceptMapEquiv = http://hl7.org/fhir/ValueSet/concept-map-equivalence
-Alias: PubStat = http://hl7.org/fhir/ValueSet/publication-status
-
 //VITU
 Alias: VITUWorklist = http://molit.eu/fhir/vitu/CodeSystem/vitu-workinglist
 Alias: VITUIDENTIFIERTYPES = http://molit.eu/fhir/vitu/CodeSystem/identifier-types

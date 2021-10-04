@@ -21,7 +21,9 @@ fhirVersion: 4.0.1
 parameters:
   apply-publisher: true
   apply-contact: true
-  show-inherited-invariants: false
+  no-narrative: [CodeSystem/*, ValueSet/*]
+  no-validate: [CodeSystem/*, ValueSet/*]
+
 copyrightYear: 2020+
 releaseLabel: ci-build
 #dependencies:

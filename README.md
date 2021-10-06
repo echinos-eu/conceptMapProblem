@@ -14,4 +14,4 @@ or
 genonce.bat
 ```
 
-Link to Gitlab pages: https://molit.gitlab-pages.molit.eu/fhir/profiling/trials-ig
+Link to Gitlab pages: https://molit.gitlab-pages.molit.eu/fhir/profiling/terminology-ig/

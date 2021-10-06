@@ -3,11 +3,11 @@
 # │  supported properties, see:                                                                    │
 # │  http://build.fhir.org/ig/HL7/fhir-shorthand/branches/beta/sushi.html#ig-development           │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
-id: molitVITU
-canonical: http://molit.eu/fhir/vitu
-version: 0.1.0
-name: TrialImplementationGuide
-title: Clinical Trial Implementation Guide
+id: molit.fhir.common-terminology
+canonical: http://molit.eu/fhir
+version: 0.1.0-SNAPSHOT
+name: TerminologyImplementationGuide
+title: MOLIT Common Terminology IG package
 status: draft
 publisher: Molit Institute gGmbH
 contact:
@@ -15,8 +15,6 @@ contact:
     telecom:
       - system: email
         value: mailto:info@molit.eu
-description: An Implementation Guide for a FHIR based trial management
-license: CC0-1.0
 fhirVersion: 4.0.1
 parameters:
   apply-publisher: true

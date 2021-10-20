@@ -1,5 +1,5 @@
-CodeSystem: UICCStagingCS
-Id: uicc-staging-cs
+CodeSystem: UICCStaging
+Id: uicc-staging
 Title: "UICC-Klassifikation"
 Description: "UICC-Klassifikation zum Staging einer Krebserkrankung."
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"

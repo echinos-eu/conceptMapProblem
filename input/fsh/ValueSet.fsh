@@ -10,12 +10,6 @@ Title: "ATC"
 Description: "Includes all WHO ATC codes."
 * include codes from system WHO
 
-ValueSet: UICCVS
-Id: uicc-vs
-Title: "UICC-Simplified"
-Description: "Dieses ValueSet enthält die vereinfachten UICC Codes die zur Anmeldung am ZPM benutzt werden"
-* include codes from system UICCTNM
-
 ValueSet: TNMTVS
 Id: tnm-t
 Title: "TNM-T"
@@ -146,7 +140,7 @@ Description: "Dieses ValueSet enthält alle HGNC GeneIDs."
 * include codes from system HGNCGeneIDCs
 
 ValueSet: UiccStagingVS
-Id: uicc-stageing-vs
+Id: uicc-staging-vs
 Title: "Simplified ValueSet for UICC Stage Codes"
 Description: "Dieses ValueSet enthält die vereinfachten UICC Staging Codes die zur Anmeldung am ZPM benutzt werden"
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablevalueset"

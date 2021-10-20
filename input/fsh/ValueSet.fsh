@@ -145,10 +145,10 @@ Title: "ValueSet for HGNC Genes"
 Description: "Dieses ValueSet enthält alle HGNC GeneIDs."
 * include codes from system HGNCGeneIDCs
 
-ValueSet: UiccStageVS
-Id: UiccStageVS
+ValueSet: UiccStagingVS
+Id: uicc-stageing-vs
 Title: "Simplified ValueSet for UICC Stage Codes"
-Description: "Dieses ValueSet enthält die vereinfachten UICC Codes die zur Anmeldung am ZPM benutzt werden"
+Description: "Dieses ValueSet enthält die vereinfachten UICC Staging Codes die zur Anmeldung am ZPM benutzt werden"
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablevalueset"
 * ^version = "2020"
 * ^status = #active
@@ -157,7 +157,7 @@ Description: "Dieses ValueSet enthält die vereinfachten UICC Codes die zur Anme
 * ^publisher = "MOLIT Institut gGmbH"
 * ^contact[0].telecom[0].system = #email
 * ^contact[0].telecom[0].value = "info@molit.eu"
-* include codes from system UICCCS
+* include codes from system UICCStagingCS
 
 ValueSet: NCIT
 Id: ncit-vs

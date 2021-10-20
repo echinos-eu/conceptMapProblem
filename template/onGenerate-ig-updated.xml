@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ImplementationGuide xmlns="http://hl7.org/fhir">
-   <id value="molitVITU"/>
+   <id value="molit.fhir.common-terminology"/>
    <text>
       <status value="extensions"/>
       <div xmlns="http://www.w3.org/1999/xhtml">
-         <h2>TrialImplementationGuide</h2>
+         <h2>TerminologyImplementationGuide</h2>
          <p>The official URL for this implementation guide is: </p>
-         <pre>http://molit.eu/fhir/vitu/ImplementationGuide/molitVITU</pre>
-         <div>
-            <p>An Implementation Guide for a FHIR based trial management</p>
-         </div>
+         <pre>http://molit.eu/fhir/ImplementationGuide/molit.fhir.common-terminology</pre>
       </div>
    </text>
-   <url value="http://molit.eu/fhir/vitu/ImplementationGuide/molitVITU"/>
-   <version value="0.1.0"/>
-   <name value="TrialImplementationGuide"/>
-   <title value="Clinical Trial Implementation Guide"/>
+   <url value="http://molit.eu/fhir/ImplementationGuide/molit.fhir.common-terminology"/>
+   <version value="0.1.0-SNAPSHOT"/>
+   <name value="TerminologyImplementationGuide"/>
+   <title value="MOLIT Common Terminology IG package"/>
    <status value="draft"/>
-   <date value="2021-10-04T18:11:54+02:00"/>
+   <date value="2021-10-20T12:25:47+02:00"/>
    <contact>
       <name value="Molit Institute gGmbH"/>
       <telecom>
@@ -25,8 +22,7 @@
          <value value="mailto:info@molit.eu"/>
       </telecom>
    </contact>
-   <description value="An Implementation Guide for a FHIR based trial management"/>
-   <packageId value="molitVITU"/>
+   <packageId value="molit.fhir.common-terminology"/>
    <license value="CC0-1.0"/>
    <fhirVersion value="4.0.1"/>
    <definition>
@@ -291,13 +287,13 @@
             <valueString value="ValueSet"/>
          </extension>
          <extension url="http://hl7.org/fhir/StructureDefinition/implementationguide-page">
-            <valueUri value="ValueSet-UiccStageVS.html"/>
+            <valueUri value="ValueSet-uicc-stageing-vs.html"/>
          </extension>
          <reference>
-            <reference value="ValueSet/UiccStageVS"/>
+            <reference value="ValueSet/uicc-stageing-vs"/>
          </reference>
          <name value="Simplified ValueSet for UICC Stage Codes"/>
-         <description value="Dieses ValueSet enthält die vereinfachten UICC Codes die zur Anmeldung am ZPM benutzt werden"/>
+         <description value="Dieses ValueSet enthält die vereinfachten UICC Staging Codes die zur Anmeldung am ZPM benutzt werden"/>
          <exampleBoolean value="false"/>
          <groupingId value="-term-valueset"/>
       </resource>
@@ -456,10 +452,10 @@
             <valueString value="CodeSystem"/>
          </extension>
          <extension url="http://hl7.org/fhir/StructureDefinition/implementationguide-page">
-            <valueUri value="CodeSystem-UICCCS.html"/>
+            <valueUri value="CodeSystem-uicc-staging-cs.html"/>
          </extension>
          <reference>
-            <reference value="CodeSystem/UICCCS"/>
+            <reference value="CodeSystem/uicc-staging-cs"/>
          </reference>
          <name value="UICC-Klassifikation"/>
          <description value="UICC-Klassifikation zum Staging einer Krebserkrankung."/>
@@ -643,7 +639,7 @@
                <generation value="generated"/>
             </page>
             <page>
-               <nameUrl value="ValueSet-UiccStageVS.html"/>
+               <nameUrl value="ValueSet-uicc-stageing-vs.html"/>
                <title value="Simplified ValueSet for UICC Stage Codes"/>
                <generation value="generated"/>
             </page>
@@ -703,7 +699,7 @@
                <generation value="generated"/>
             </page>
             <page>
-               <nameUrl value="CodeSystem-UICCCS.html"/>
+               <nameUrl value="CodeSystem-uicc-staging-cs.html"/>
                <title value="UICC-Klassifikation"/>
                <generation value="generated"/>
             </page>
@@ -856,7 +852,7 @@
       </parameter>
       <parameter>
          <code value="path-history"/>
-         <value value="http://molit.eu/fhir/vitu/history.html"/>
+         <value value="http://molit.eu/fhir/history.html"/>
       </parameter>
       <parameter>
          <code value="template-html"/>

@@ -139,7 +139,7 @@ Title: "ValueSet for HGNC Genes"
 Description: "Dieses ValueSet enthält alle HGNC GeneIDs."
 * include codes from system HGNCGeneIDCs
 
-ValueSet: UiccStagingVS
+ValueSet: UICCStagingVS
 Id: uicc-staging-vs
 Title: "Simplified ValueSet for UICC Stage Codes"
 Description: "Dieses ValueSet enthält die vereinfachten UICC Staging Codes die zur Anmeldung am ZPM benutzt werden"
@@ -151,7 +151,7 @@ Description: "Dieses ValueSet enthält die vereinfachten UICC Staging Codes die 
 * ^publisher = "MOLIT Institut gGmbH"
 * ^contact[0].telecom[0].system = #email
 * ^contact[0].telecom[0].value = "info@molit.eu"
-* include codes from system UICCStagingCS
+* include codes from system UICCStaging
 
 ValueSet: NCIT
 Id: ncit-vs

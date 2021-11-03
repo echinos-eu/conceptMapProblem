@@ -2,6 +2,7 @@
 Alias: UCUM = http://unitsofmeasure.org
 Alias: ICD10GM = http://fhir.de/CodeSystem/dimdi/icd-10-gm
 Alias: SEQONT = http://sequenceontology.org
+Alias: ATC = http://www.whocc.no/atc
 
 // Identifier URIs
 Alias: CLINICALTRIALS = http://clinicaltrials.gov

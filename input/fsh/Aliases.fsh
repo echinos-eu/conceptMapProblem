@@ -1,11 +1,8 @@
 // Terminology
-Alias: NCIT = http://ncit.nci.nih.gov
-Alias: WHO = http://www.whocc.no/atc
 Alias: UCUM = http://unitsofmeasure.org
-Alias: DKTKEV = http://dktk.dkfz.de/fhir/CodeSystem/evidence-level
-Alias: HGNCGENES = http://www.genenames.org/geneId
 Alias: ICD10GM = http://fhir.de/CodeSystem/dimdi/icd-10-gm
 Alias: SEQONT = http://sequenceontology.org
+
 // Identifier URIs
 Alias: CLINICALTRIALS = http://clinicaltrials.gov
 Alias: DRKS = http://www.drks.de/
@@ -15,11 +12,8 @@ Alias: POSNEGIND = http://loinc.org/vs/LL3639-3
 Alias: MSISTAT = http://loinc.org/vs/LL3994-2
 
 //TNM related
-Alias: UICC = urn:oid:2.16.840.1.113883.15.16
-Alias: TCode = urn:oid:2.16.840.1.113883.15.16
-Alias: NCode = urn:oid:1.3.6.1.4.1.19376.1.3.11.44
-Alias: MCode = urn:oid:1.3.6.1.4.1.19376.1.3.11.45
-Alias: UICCTNM = http://www.uicc.org/resources/tnm/stage
+Alias: UICC = http://cancerstaging.org
+
 Alias: TNMPRAEFIXAOID = urn:oid:2.16.840.1.113883.15.16
 Alias: TNMPRAEFIXS = urn:oid:1.2.276.0.76.3.1.131.1.5.1
 //todo: set correct URI for TNMPRAEFIXL & TNMPRAEFIXV
@@ -32,7 +26,7 @@ Alias: PROVISIONCS = http://hl7.org/fhir/consent-provision-type
 Alias: TNMPRAEFIXCPU = http://molit.eu/fhir/vitu/Extension/praefixcpu
 
 //List
-Alias: LISTSTATCODES = http://hl7.org/fhir/list-status
+Alias: LISTSTATNMS = http://hl7.org/fhir/list-status
 Alias: LISTMODECODES = http://hl7.org/fhir/list-mode
 
 //VITU
@@ -41,11 +35,11 @@ Alias: VITUIDENTIFIERTYPES = http://molit.eu/fhir/vitu/CodeSystem/identifier-typ
 Alias: MOLITOrganizations = http://molit.eu/fhir/zvpm/organizations
 //HL7
 Alias: REQUPRIO = http://hl7.org/fhir/request-priority
-Alias: MEDSTATCODES = http://hl7.org/fhir/CodeSystem/medication-statement-status
+Alias: MEDSTATNMS = http://hl7.org/fhir/CodeSystem/medication-statement-status
 Alias: NULLFLAVOUR = http://terminology.hl7.org/CodeSystem/v3-NullFlavor
 Alias: CONDITIONCLINICAL = http://terminology.hl7.org/CodeSystem/condition-clinical
 Alias: COMPOSITIONSTATUS = http://hl7.org/fhir/composition-status
-Alias: V3ACTCODE = http://terminology.hl7.org/CodeSystem/v3-ActCode
+Alias: V3ACTNM = http://terminology.hl7.org/CodeSystem/v3-AcTNM
 Alias: DOCREFSTATUS = http://hl7.org/fhir/document-reference-status
 Alias: IDENTIFIERTYPES = http://terminology.hl7.org/CodeSystem/v2-0203
 Alias: TASKCODECS = http://hl7.org/fhir/CodeSystem/task-code

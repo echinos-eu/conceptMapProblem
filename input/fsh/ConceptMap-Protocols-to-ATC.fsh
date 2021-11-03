@@ -1,8 +1,8 @@
 Instance: ProtocolsToAtcCM
 InstanceOf: ConceptMap
-Usage: #definition
-* language = #de-DE
+* id = "protocols-to-atc"
 * url = "http://molit.eu/fhir/vitu/ConceptMap/protocols-to-atc"
+* language = #de-DE
 * name = "ProtocolList"
 * status = #active
 * publisher = "MOLIT Institut gGmbH"
@@ -10,8 +10,8 @@ Usage: #definition
 * contact[0].telecom[0].value = "info@molit.eu"
 * description = "Diese Concept Map enthält die in der Onkologie verwendeten Protokolle und deren enthaltenen Substanzen mit zugehöriger ATC Kodierung"
 * copyright = "MOLIT Institut gGmbH"
-* group[0].source = "http://molit.eu/fhir/vitu/CodeSystem/onco-therapy-protocols"
-* group[0].target = "http://www.whocc.no/atc"
+* group[0].source = Canonical(VituProtocolList) 
+* group[0].target = Canonical(AtcVituSubstanceListCS)
 * group[0].element[0].code = #abvd
 * group[0].element[0].display = "ABVD"
 * group[0].element[0].target[0].code = #L01DB01

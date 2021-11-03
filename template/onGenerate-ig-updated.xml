@@ -7,6 +7,9 @@
          <h2>TerminologyImplementationGuide</h2>
          <p>The official URL for this implementation guide is: </p>
          <pre>http://molit.eu/fhir/ImplementationGuide/molit.fhir.common-terminology</pre>
+         <div>
+            <p>MOLIT Common Terminology IG package</p>
+         </div>
       </div>
    </text>
    <url value="http://molit.eu/fhir/ImplementationGuide/molit.fhir.common-terminology"/>
@@ -14,7 +17,7 @@
    <name value="TerminologyImplementationGuide"/>
    <title value="MOLIT Common Terminology IG package"/>
    <status value="draft"/>
-   <date value="2021-10-20T12:25:47+02:00"/>
+   <date value="2021-10-25T16:16:26+02:00"/>
    <contact>
       <name value="Molit Institute gGmbH"/>
       <telecom>
@@ -22,6 +25,7 @@
          <value value="mailto:info@molit.eu"/>
       </telecom>
    </contact>
+   <description value="MOLIT Common Terminology IG package"/>
    <packageId value="molit.fhir.common-terminology"/>
    <license value="CC0-1.0"/>
    <fhirVersion value="4.0.1"/>
@@ -272,25 +276,10 @@
             <valueString value="ValueSet"/>
          </extension>
          <extension url="http://hl7.org/fhir/StructureDefinition/implementationguide-page">
-            <valueUri value="ValueSet-uicc-vs.html"/>
+            <valueUri value="ValueSet-uicc-staging-vs.html"/>
          </extension>
          <reference>
-            <reference value="ValueSet/uicc-vs"/>
-         </reference>
-         <name value="UICC-Simplified"/>
-         <description value="Dieses ValueSet enthält die vereinfachten UICC Codes die zur Anmeldung am ZPM benutzt werden"/>
-         <exampleBoolean value="false"/>
-         <groupingId value="-term-valueset"/>
-      </resource>
-      <resource>
-         <extension url="http://hl7.org/fhir/tools/StructureDefinition/resource-information">
-            <valueString value="ValueSet"/>
-         </extension>
-         <extension url="http://hl7.org/fhir/StructureDefinition/implementationguide-page">
-            <valueUri value="ValueSet-uicc-stageing-vs.html"/>
-         </extension>
-         <reference>
-            <reference value="ValueSet/uicc-stageing-vs"/>
+            <reference value="ValueSet/uicc-staging-vs"/>
          </reference>
          <name value="Simplified ValueSet for UICC Stage Codes"/>
          <description value="Dieses ValueSet enthält die vereinfachten UICC Staging Codes die zur Anmeldung am ZPM benutzt werden"/>
@@ -452,10 +441,10 @@
             <valueString value="CodeSystem"/>
          </extension>
          <extension url="http://hl7.org/fhir/StructureDefinition/implementationguide-page">
-            <valueUri value="CodeSystem-uicc-staging-cs.html"/>
+            <valueUri value="CodeSystem-uicc-staging.html"/>
          </extension>
          <reference>
-            <reference value="CodeSystem/uicc-staging-cs"/>
+            <reference value="CodeSystem/uicc-staging"/>
          </reference>
          <name value="UICC-Klassifikation"/>
          <description value="UICC-Klassifikation zum Staging einer Krebserkrankung."/>
@@ -634,12 +623,7 @@
                <generation value="generated"/>
             </page>
             <page>
-               <nameUrl value="ValueSet-uicc-vs.html"/>
-               <title value="UICC-Simplified"/>
-               <generation value="generated"/>
-            </page>
-            <page>
-               <nameUrl value="ValueSet-uicc-stageing-vs.html"/>
+               <nameUrl value="ValueSet-uicc-staging-vs.html"/>
                <title value="Simplified ValueSet for UICC Stage Codes"/>
                <generation value="generated"/>
             </page>
@@ -699,7 +683,7 @@
                <generation value="generated"/>
             </page>
             <page>
-               <nameUrl value="CodeSystem-uicc-staging-cs.html"/>
+               <nameUrl value="CodeSystem-uicc-staging.html"/>
                <title value="UICC-Klassifikation"/>
                <generation value="generated"/>
             </page>

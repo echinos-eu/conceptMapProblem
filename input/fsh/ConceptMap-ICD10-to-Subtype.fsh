@@ -8,9 +8,9 @@ Description: "Diese Concept Map enthält die entitätsspezifische Auswahlliste d
 * publisher = "MOLIT Institut gGmbH"
 * description = "Diese Concept Map enthält die entitätsspezifische Auswahlliste der Subtypen für ICD-10 Codes."
 * sourceCanonical = "http://fhir.de/CodeSystem/dimdi/icd-10-gm"
-* targetCanonical = "http://ncit.nci.nih.gov"
+* targetCanonical = "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"
 * group[0].source = "http://fhir.de/CodeSystem/dimdi/icd-10-gm"
-* group[0].target = "http://ncit.nci.nih.gov"
+* group[0].target = "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"
 * group[0].element[0].code = ICD10GM#C15
 * group[0].element[0].display = "Bösartige Neubildung des Ösophagus"
 * group[0].element[0].target[0].code = NCIT#C2929

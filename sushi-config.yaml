@@ -8,6 +8,7 @@ canonical: http://molit.eu/fhir
 version: 0.1.0-SNAPSHOT
 name: TerminologyImplementationGuide
 title: MOLIT Common Terminology IG package
+description: MOLIT Common Terminology IG package
 status: draft
 publisher: Molit Institute gGmbH
 contact:

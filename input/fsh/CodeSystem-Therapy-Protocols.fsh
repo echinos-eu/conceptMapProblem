@@ -1,4 +1,4 @@
-CodeSystem: VituProtocolListCS
+CodeSystem: VituProtocolList
 Id: VituProtocolList
 Title: "Therapieprotokollliste mit custom Kodierungen"
 Description: "Liste onkologisch relevanter Protokolle"

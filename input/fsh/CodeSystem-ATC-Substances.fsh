@@ -1,6 +1,7 @@
-CodeSystem: AtcVituSubstanceListCS
+CodeSystem: ATC
 Title: "VITU-ATC"
 Description: "Onkologisch relevante ATC Wirkstoffe."
+* ^url = "http://www.whocc.no/atc"
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"
 * ^language = #de-DE
 * ^version = "2020"

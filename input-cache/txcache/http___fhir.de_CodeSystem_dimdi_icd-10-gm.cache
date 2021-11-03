@@ -37385,3 +37385,43 @@ e: {
   "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
 }
 -------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :1167331345}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :571556735}####
+e: {
+  "error" : "Error parsing response message: closed"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :2105086454}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :340808791}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :682385}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :1889862638}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :968695985}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :1514823009}####
+e: {
+  "error" : "Error from server: Unable to provide support for code system http://fhir.de/CodeSystem/dimdi/icd-10-gm"
+}
+-------------------------------------------------------------------------------------

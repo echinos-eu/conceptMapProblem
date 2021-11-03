@@ -496,11 +496,11 @@ v: {
   "code" : "L01DB06"
 }, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
 v: {
-  "display" : "",
-  "code" : "",
-  "system" : "",
-  "severity" : "error",
-  "error" : "Error performing operation 'validate-code: Failed to connect to tx.fhir.org/104.196.166.17:80' (parameters = \"\")"
+  "display" : "idarubicin",
+  "code" : "L01DB06",
+  "system" : "http://www.whocc.no/atc",
+  "severity" : null,
+  "error" : ""
 }
 -------------------------------------------------------------------------------------
 {"code" : {
@@ -725,8 +725,8 @@ e: {
       "url" : "http://hl7.org/fhir/StructureDefinition/valueset-toocostly",
       "valueBoolean" : true
     }],
-    "identifier" : "urn:uuid:e7543ded-fe1a-44b7-b3a0-108d1de6011b",
-    "timestamp" : "2021-10-20T10:29:34.745Z",
+    "identifier" : "urn:uuid:bfbf983f-9f2e-47f4-9ed3-233134f1829a",
+    "timestamp" : "2021-10-25T14:17:08.135Z",
     "parameter" : [{
       "name" : "limitedExpansion",
       "valueBoolean" : true

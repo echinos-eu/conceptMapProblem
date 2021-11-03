@@ -162,4 +162,4 @@ Id: substances
 Title: "Oncologic substances"
 Description: "ValueSet aller ATC & custom Wirkstoffe"
 * include codes from system ATC
-* include codes from system CustomSubstancesCS
+* include codes from system CustomSubstances

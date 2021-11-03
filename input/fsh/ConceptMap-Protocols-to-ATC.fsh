@@ -11,7 +11,7 @@ InstanceOf: ConceptMap
 * description = "Diese Concept Map enthält die in der Onkologie verwendeten Protokolle und deren enthaltenen Substanzen mit zugehöriger ATC Kodierung"
 * copyright = "MOLIT Institut gGmbH"
 * group[0].source = Canonical(VituProtocolList) 
-* group[0].target = Canonical(AtcVituSubstanceListCS)
+* group[0].target = Canonical(ATC)
 * group[0].element[0].code = #abvd
 * group[0].element[0].display = "ABVD"
 * group[0].element[0].target[0].code = #L01DB01

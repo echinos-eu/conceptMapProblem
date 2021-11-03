@@ -8,7 +8,7 @@ ValueSet: ATCVS
 Id: atc-vs
 Title: "ATC"
 Description: "Includes all WHO ATC codes."
-* include codes from system WHO
+* include codes from system ATC
 
 ValueSet: TNMTVS
 Id: tnm-t
@@ -156,3 +156,10 @@ Id: ncit-vs
 Title: "ValueSet NCIT"
 Description: "Dieses ValueSet enthält alle NCIT codes."
 * include codes from system NCIT
+
+ValueSet: SubstancesVS
+Id: substances
+Title: "Oncologic substances"
+Description: "ValueSet aller ATC & custom Wirkstoffe"
+* include codes from system ATC
+* include codes from system CustomSubstancesCS

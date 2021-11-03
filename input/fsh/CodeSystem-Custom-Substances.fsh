@@ -1,4 +1,4 @@
-CodeSystem: CustomSubstancesCS
+CodeSystem: CustomSubstances
 Title: "Nicht kodierte Substanzen"
 Description: "Substanzen, welche gegenwärtig noch keinen ATC code haben."
 * #droloxifen "Droloxifen"

@@ -159,7 +159,7 @@ Description: "Dieses ValueSet enthält alle NCIT codes."
 
 ValueSet: SubstancesVS
 Id: substances
-Title: "Oncologic substances"
+Title: "Medication Ingredients"
 Description: "ValueSet aller ATC & custom Wirkstoffe"
 * include codes from system ATC
 * include codes from system CustomSubstances

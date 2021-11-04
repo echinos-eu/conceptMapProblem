@@ -1,6 +1,6 @@
 CodeSystem: DeutscheBundeslaender
 Id: DeutscheBundeslaender
-Title: "Deutsche Städte"
+Title: "Bundesländer Deutschlands"
 Description: "CodeSystem mit allen deutschen Bundesländern auf deutsch"
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"
 * ^version = "V1.0"

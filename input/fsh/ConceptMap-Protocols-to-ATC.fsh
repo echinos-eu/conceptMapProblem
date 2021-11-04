@@ -1,5 +1,6 @@
 Instance: ProtocolsToAtcCM
 InstanceOf: ConceptMap
+Usage: #definition
 * id = "protocols-to-atc"
 * url = "http://molit.eu/fhir/vitu/ConceptMap/protocols-to-atc"
 * language = #de-DE

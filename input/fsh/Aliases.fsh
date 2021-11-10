@@ -10,7 +10,7 @@ Alias: DRKS = http://www.drks.de/
 
 Alias: LOINC = http://loinc.org
 Alias: POSNEGIND = http://loinc.org/vs/LL3639-3
-Alias: MSISTAT = http://loinc.org/vs/LL3994-2
+Alias: MSI-VS = http://loinc.org/vs/LL3994-2
 
 //TNM related
 Alias: UICC = http://cancerstaging.org

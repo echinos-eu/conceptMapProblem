@@ -1,4 +1,4 @@
-CodeSystem: GesamtbeurteilungTumorstatusCS
+CodeSystem: GesamtbeurteilungTumorstatus
 Title: "VITU-Gesamtbeurteilung Tumorstatus (nach ADTGEKID)"
 Description: "Codes zur Gesamtbeurteilung des Tumorstatus nach ADTGEKID."
 * #V "Vollremission (complete remission, CR)"

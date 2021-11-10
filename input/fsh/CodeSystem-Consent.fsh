@@ -1,4 +1,5 @@
-CodeSystem: CSC
+CodeSystem: ConsentModulesMolitDataDonation
+Id: molit-consent-modules
 Title: "CodeSystem Consent ZvPM"
 Description: "This CodesySystem holds the Concepts for types of patient consent in VITU."
 * #TB "Tumorboard"

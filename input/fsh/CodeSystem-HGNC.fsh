@@ -1,5 +1,5 @@
-CodeSystem: HGNCGeneIDCs
-Id: HGNCGeneIDCs
+CodeSystem: HGNCGeneIDs
+Id: HGNCGeneIDs
 Title: "HGNC GeneID CodeSystem"
 Description: "CodeSystem of all genes and their respective HGNC Code"
 * ^url = "http://www.genenames.org/geneId"

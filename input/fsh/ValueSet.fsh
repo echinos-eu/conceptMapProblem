@@ -13,7 +13,7 @@ Description: "Includes all WHO ATC codes."
 ValueSet: ProtocolsVS
 Id: protocols-vs
 Title: "Oncology Treatment Protocols"
-* include codes from system ProtocolList
+* include codes from system Protocols
 
 ValueSet: TNMTVS
 Id: tnm-t

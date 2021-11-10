@@ -1,4 +1,4 @@
-CodeSystem: ProtocolList
+CodeSystem: Protocols
 Id: protocolList
 Title: "Therapieprotokollliste mit custom Kodierungen"
 Description: "Liste onkologisch relevanter Protokolle"

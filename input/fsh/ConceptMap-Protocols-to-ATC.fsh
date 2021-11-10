@@ -4,14 +4,14 @@ Usage: #definition
 * id = "protocols-to-atc"
 * url = "http://molit.eu/fhir/vitu/ConceptMap/protocols-to-atc"
 * language = #de-DE
-* name = "ProtocolList"
+* name = "Protocols"
 * status = #active
 * publisher = "MOLIT Institut gGmbH"
 * contact[0].telecom[0].system = #email
 * contact[0].telecom[0].value = "info@molit.eu"
 * description = "Diese Concept Map enthält die in der Onkologie verwendeten Protokolle und deren enthaltenen Substanzen mit zugehöriger ATC Kodierung"
 * copyright = "MOLIT Institut gGmbH"
-* group[0].source = Canonical(VituProtocolList) 
+* group[0].source = Canonical(Protocols)
 * group[0].target = Canonical(ATC)
 * group[0].element[0].code = #abvd
 * group[0].element[0].display = "ABVD"

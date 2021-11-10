@@ -1,17 +1,17 @@
 {
   "resourceType": "ValueSet",
-  "id": "LL3994-2",
+  "id": "LL3044-6",
   "meta": {
     "versionId": "5",
-    "lastUpdated": "2021-08-23T11:59:44.983+00:00"
+    "lastUpdated": "2021-08-23T11:59:29.879+00:00"
   },
-  "url": "http://loinc.org/vs/LL3994-2",
+  "url": "http://loinc.org/vs/LL3044-6",
   "identifier": [ {
     "system": "urn:ietf:rfc:3986",
-    "value": "urn:oid:1.3.6.1.4.1.12009.10.1.2613"
+    "value": "urn:oid:1.3.6.1.4.1.12009.10.1.1958"
   } ],
   "version": "Loinc_2.71",
-  "name": "Stable|MSI-L|MSI-H|Indeterminate",
+  "name": "Yes/No/Unk",
   "status": "active",
   "publisher": "Regenstrief Institute, Inc.",
   "contact": [ {
@@ -26,17 +26,14 @@
     "include": [ {
       "system": "http://loinc.org",
       "concept": [ {
-        "code": "LA14122-8",
-        "display": "Stable"
+        "code": "LA33-6",
+        "display": "Yes"
       }, {
-        "code": "LA26202-4",
-        "display": "MSI-L"
+        "code": "LA32-8",
+        "display": "No"
       }, {
-        "code": "LA26203-2",
-        "display": "MSI-H"
-      }, {
-        "code": "LA11884-6",
-        "display": "Indeterminate"
+        "code": "LA4489-6",
+        "display": "Unknown"
       } ]
     } ]
   }

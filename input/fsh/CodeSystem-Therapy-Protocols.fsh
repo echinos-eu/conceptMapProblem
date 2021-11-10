@@ -1,5 +1,5 @@
-CodeSystem: VituProtocolList
-Id: VituProtocolList
+CodeSystem: ProtocolList
+Id: protocolList
 Title: "Therapieprotokollliste mit custom Kodierungen"
 Description: "Liste onkologisch relevanter Protokolle"
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"

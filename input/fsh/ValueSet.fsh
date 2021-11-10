@@ -10,6 +10,11 @@ Title: "ATC"
 Description: "Includes all WHO ATC codes."
 * include codes from system ATC
 
+ValueSet: ProtocolsVS
+Id: protocols-vs
+Title: "Oncology Treatment Protocols"
+* include codes from system ProtocolList
+
 ValueSet: TNMTVS
 Id: tnm-t
 Title: "TNM-T"

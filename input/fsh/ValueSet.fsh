@@ -99,3 +99,10 @@ Title: "Medication Ingredients"
 Description: "ValueSet aller ATC & custom Wirkstoffe"
 * include codes from system ATC
 * include codes from system CustomSubstances
+
+ValueSet: LOINCVS
+Id: loinc-vs
+Title: "LOINC"
+Description: "Includes all LOINC codes"
+* ^url = "http://loinc.org/vs"
+* include codes from system LOINC

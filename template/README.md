@@ -1,6 +1,4 @@
-# MOLIT Implementation Guide Template
-This is the MOLIT template for the FHIR IG publisher.
-This template should be used by all MOLIT profiles using the IG publisher.
+# ig-template-base
+package-id = fhir.base.template
 
-# Quelle
-Vorlage für dieses Template war das IHE [Template](https://github.com/IHE/ihe-ig-template).
+Base IG template managed by HL7 but usable by anyone (no logos).  The foundation for most HL7-published IGs

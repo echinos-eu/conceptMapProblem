@@ -1,4 +1,4 @@
-Instance: ProtocolsToAtcCM
+Instance: ProtocolsToAtc
 InstanceOf: ConceptMap
 Usage: #definition
 * id = "protocols-to-atc"

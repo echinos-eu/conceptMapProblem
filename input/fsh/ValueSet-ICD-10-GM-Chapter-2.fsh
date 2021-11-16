@@ -1,5 +1,5 @@
 ValueSet: ICD10GMCIIVS
-Id: icd-10-gm-c-II-vs
+Id: icd-10-gm-c-II
 Title: "ICD-10-GM-Kapitel II"
 Description: "ValueSet des Kapitel II der onkologischen ICD10-GM Primärschlüssel inklusive abgetrennter Klassentitel im Display Value."
 * ICD10GM#C00 "Bösartige Neubildung der Lippe"

@@ -1,7 +1,7 @@
 CodeSystem: ICD10GM
 Title: "ICD-10-GM"
 Description: "Deutsche Modifikation des ICD-10."
-* ^url = "http://fhir.de/CodeSystem/bfarm/icd-10-gm"
+* ^url = ICD10GM
 * #I "Bestimmte infektiöse und parasitäre Krankheiten"
 * #A00-A09 "Infektiöse Darmkrankheiten"
 * #A00 "Cholera"

@@ -1,7 +1,7 @@
 CodeSystem: ICDO3
 Title: "ICD-O-3"
 Description: "ICD-O-3 Teil des ICD-10-GM."
-* ^url = "http://terminology.hl7.org/CodeSystem/icd-o-3"
+* ^url = ICDO3
 * #C00 "Lippe"
 * #C00.0 "Lippe|ÄußereOberlippe"
 * #C00.1 "Lippe|ÄußereUnterlippe"

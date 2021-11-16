@@ -1,8 +1,8 @@
 CodeSystem: HGNCGeneIDs
-Id: HGNCGeneIDs
+Id: gene-id
 Title: "HGNC GeneID CodeSystem"
 Description: "CodeSystem of all genes and their respective HGNC Code"
-* ^url = "http://www.genenames.org/geneId"
+* ^url = HGNCGeneId
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"
 * ^version = "2020"
 * ^status = #active

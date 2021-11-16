@@ -1,5 +1,5 @@
-ValueSet: ICDO3VS
-Id: icd-o-3-topography-vs
+ValueSet: ICDO3TopographieVS
+Id: icd-o-3-topography
 Title: "ICD-O-3-Topographie"
 Description: "ValueSet aller ICD-O-3 Topographie Codes mit Überschriften im Display Value."
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablevalueset"

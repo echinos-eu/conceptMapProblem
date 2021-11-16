@@ -1,8 +1,9 @@
-Instance: ICD10toSubtypeCM
+Instance: ICD10toSubtype
 InstanceOf: ConceptMap
 Title: "ICD-10-to-NCIT-Subtype"
 Usage: #definition
 Description: "Diese Concept Map enthält die entitätsspezifische Auswahlliste der Subtypen für ICD-10 Codes"
+* id = "icd10-to-subtype"
 * name = "ICD10toSubtype"
 * status = #draft
 * publisher = "MOLIT Institut gGmbH"

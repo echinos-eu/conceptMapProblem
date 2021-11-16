@@ -1,6 +1,6 @@
 ValueSet: ICDO3MorphologieVS
-Id: icd-o-3-morphologie-vs
-Title: "ICD-O-3-Morphologie"
+Id: icd-o-3-morphologie
+Title: "ICD-O-3-Topographie"
 Description: "International Classification of Diseases for Oncology 2014 Morphology Section ValueSet."
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablevalueset"
 * ^language = #de-DE

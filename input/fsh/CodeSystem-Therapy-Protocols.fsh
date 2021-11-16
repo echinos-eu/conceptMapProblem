@@ -1,5 +1,5 @@
 CodeSystem: Protocols
-Id: protocolList
+Id: protocol-list
 Title: "Therapieprotokollliste mit custom Kodierungen"
 Description: "Liste onkologisch relevanter Protokolle"
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"

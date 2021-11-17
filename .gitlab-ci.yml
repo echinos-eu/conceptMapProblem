@@ -16,7 +16,7 @@ build:
     - npm install -g fsh-sushi
     - chmod +x ./_updatePublisher.sh
     - chmod +x ./_genonce.sh
-  # can't overwrite modified scripts  - ./_updatePublisher.sh -y
+    - ./_updatePublisher.sh -y
     - ./_genonce.sh
   artifacts:
     name: "$CI_PROJECT_NAME"

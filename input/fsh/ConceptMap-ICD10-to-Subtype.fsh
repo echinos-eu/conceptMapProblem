@@ -4,6 +4,7 @@ Title: "ICD-10-to-NCIT-Subtype"
 Usage: #definition
 Description: "Diese Concept Map enthält die entitätsspezifische Auswahlliste der Subtypen für ICD-10 Codes"
 * id = "icd10-to-subtype"
+* status = #active
 * url = "http://molit.eu/fhir/vitu/ConceptMap/icd10-to-subtype"
 * publisher = "MOLIT Institut gGmbH"
 * description = "Diese Concept Map enthält die entitätsspezifische Auswahlliste der Subtypen für ICD-10 Codes."

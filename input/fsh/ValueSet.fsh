@@ -46,3 +46,9 @@ Title: "LOINC"
 Description: "Includes all LOINC codes"
 * ^url = "http://loinc.org/vs"
 * include codes from system LOINC
+
+ValueSet: LaenderKennzeichenVS
+Id: anlage-8-laenderkennzeichen
+Title: "Anlage 8 - Länderkennzeichen"
+Description: "Includes all Laendercodes"
+* include codes from system LaenderKennzeichen

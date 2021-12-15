@@ -9,4 +9,5 @@ Alias: LOINC = http://loinc.org
 Alias: COUNTRYCODESCS = urn:iso:std:iso:3166
 Alias: NCIT = http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl
 
-
+//workaround bis basis-de wieder eingefügt wird.
+Alias: LaenderKennzeichen = http://fhir.de/CodeSystem/deuev/anlage-8-laenderkennzeichen

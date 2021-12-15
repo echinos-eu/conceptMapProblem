@@ -19,7 +19,7 @@ ValueSet: ProtocolsAndSubstancesVS
 Id: substances-protocols
 Title: "Oncology Treatment Protocols & Substances"
 * include codes from system Protocols
-* include codes from system SubstancesVS
+* include codes from valueset SubstancesVS
 
 ValueSet: ISO3166
 Id: iso3166-1-2

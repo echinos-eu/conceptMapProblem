@@ -20,7 +20,7 @@ fhirVersion: 4.0.1
 parameters:
   apply-publisher: true
   apply-contact: true
-  no-narrative: [CodeSystem/*, ValueSet/*]
+  no-narrative: [CodeSystem/*, ValueSet/*, ConceptMap/*]
   no-validate: [CodeSystem/*, ValueSet/*]
 
 copyrightYear: 2020+

@@ -20,16 +20,11 @@ build:
     - ./_genonce.sh
   artifacts:
     name: "$CI_PROJECT_NAME"
+    when: always
     paths:
       - output/
   tags: 
     - docker
-
-upload-error-logs:
-  stage: build
-  artifacts:
-    name: "testlogs"      
-    when: on_failure
 
 pages:
   stage: deploy

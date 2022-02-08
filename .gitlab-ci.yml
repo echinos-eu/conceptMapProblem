@@ -25,6 +25,12 @@ build:
   tags: 
     - docker
 
+upload-error-logs:
+  stage: build
+  artifacts:
+    name: "testlogs"      
+    when: on_failure
+
 pages:
   stage: deploy
   script:

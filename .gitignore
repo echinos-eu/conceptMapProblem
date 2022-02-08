@@ -203,3 +203,6 @@ fabric.properties
 /temp/*
 #/input-cache/*
 /input-cache/
+/temp/
+
+

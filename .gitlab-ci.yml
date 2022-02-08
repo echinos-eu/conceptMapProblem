@@ -6,7 +6,6 @@ cache:
 stages:
   - setup
   - build
-  - cleanup-build
   - deploy
 
 build:
@@ -21,21 +20,12 @@ build:
     - ./_genonce.sh
   artifacts:
     name: "$CI_PROJECT_NAME"
+    when: always
     paths:
       - output/
-  tags: 
-    - docker
-
-cleanup_job:
-  when: on_failure
-  stage: cleanup-build
-  script:
-    - ls -lahs *
-  artifacts:
-    paths:
       - ./*.log
   tags: 
-  - docker
+    - docker
 
 pages:
   stage: deploy

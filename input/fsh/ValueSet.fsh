@@ -19,6 +19,7 @@ ValueSet: ProtocolsAndSubstancesVS
 Id: substances-protocols
 Title: "Oncology Treatment Protocols & Substances"
 * include codes from system Protocols
+* include codes from system TemporaryProtocols
 * include codes from valueset SubstancesVS
 
 ValueSet: ISO3166
@@ -39,6 +40,7 @@ Title: "Medication Ingredients"
 Description: "ValueSet aller ATC & custom Wirkstoffe"
 * include codes from system ATC
 * include codes from system CustomSubstances
+* include codes from system TemporarySubstances
 
 ValueSet: LOINCVS
 Id: loinc

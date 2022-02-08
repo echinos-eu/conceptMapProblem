@@ -202,3 +202,4 @@ fabric.properties
 /fsh-generated/*
 /temp/*
 #/input-cache/*
+/input-cache/

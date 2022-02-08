@@ -4,13 +4,8 @@ Title: "Therapieprotokollliste mit custom Kodierungen"
 Description: "Liste onkologisch relevanter Protokolle"
 * ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"
 * ^language = #de-DE
-* ^version = "2020"
 * ^status = #active
 * ^experimental = false
-* ^publisher = "MOLIT Institut gGmbH"
-* ^contact[0].telecom[0].system = #email
-* ^contact[0].telecom[0].value = "info@molit.eu"
-* ^copyright = "Molit Institut gGmbH"
 * ^content = #complete
 * #abvd "ABVD"
 * #ac "AC"
@@ -149,3 +144,13 @@ Description: "Liste onkologisch relevanter Protokolle"
 * #vtd "VTD"
 * #xelox "XELOX"
 * #xp "XP"
+
+CodeSystem: TemporaryProtocols
+Id: temporary-protocol-list
+Title: "Therapieprotokollliste mit temporären Kodierungen"
+Description: "Liste onkologisch relevanter Protokolle welche noch nicht reviewed wurden"
+* ^meta.profile[0] = "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"
+* ^language = #de-DE
+* ^status = #active
+* ^experimental = false
+* ^content = #complete

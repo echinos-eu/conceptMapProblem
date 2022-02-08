@@ -30,7 +30,7 @@ cleanup_job:
   when: on_failure
   stage: cleanup-build
   script:
-    - ls *.log
+    - ls -lahs *
   artifacts:
     paths:
       - ./*.log

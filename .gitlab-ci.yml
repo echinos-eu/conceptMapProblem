@@ -4,7 +4,6 @@ cache:
   key: ${CI_COMMIT_REF_SLUG}
 
 stages:
-  - setup
   - build
   - deploy
 
@@ -13,11 +12,9 @@ build:
   before_script:
     - export _JAVA_OPTIONS="-Xmx11g -Xms4g"
   script:
-    - npm install -g fsh-sushi
-    - chmod +x ./_updatePublisher.sh
-    - chmod +x ./_genonce.sh
-    - ./_updatePublisher.sh -y
-    - ./_genonce.sh
+    - pwd
+    - ls -lahs
+    - cat 12443453453.txt
   artifacts:
     name: "$CI_PROJECT_NAME"
     when: always

@@ -20,7 +20,7 @@ build:
     when: always
     paths:
       - output/
-      - ./*.log
+      - /builds/molit/fhir/profiling/terminology-ig/*.md
   tags: 
     - docker
 

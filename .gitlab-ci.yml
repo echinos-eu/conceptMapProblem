@@ -12,15 +12,17 @@ build:
   before_script:
     - export _JAVA_OPTIONS="-Xmx11g -Xms4g"
   script:
-    - pwd
-    - ls -lahs
-    - cat 12443453453.txt
+    - npm install -g fsh-sushi
+    - chmod +x ./_updatePublisher.sh
+    - chmod +x ./_genonce.sh
+    - ./_updatePublisher.sh -y
+    - ./_genonce.sh
   artifacts:
     name: "$CI_PROJECT_NAME"
     when: always
     paths:
       - output/
-      - /builds/molit/fhir/profiling/terminology-ig/*.md
+      - $CI_PROJECT_DIR/*.log
   tags: 
     - docker
 

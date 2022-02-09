@@ -22,7 +22,7 @@ build:
     when: always
     paths:
       - output/
-      - $CI_PROJECT_DIR/*.log
+      - $CI_PROJECT_DIR/
   tags: 
     - docker
 

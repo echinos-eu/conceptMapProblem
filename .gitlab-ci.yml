@@ -19,10 +19,8 @@ build:
     - ./_genonce.sh
   artifacts:
     name: "$CI_PROJECT_NAME"
-    when: always
     paths:
       - output/
-      - $CI_PROJECT_DIR/
   tags: 
     - docker
 

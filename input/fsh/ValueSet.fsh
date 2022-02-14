@@ -14,6 +14,8 @@ ValueSet: ProtocolsVS
 Id: protocols
 Title: "Oncology Treatment Protocols"
 * include codes from system Protocols
+* include codes from system TemporaryProtocols
+
 
 ValueSet: ProtocolsAndSubstancesVS
 Id: substances-protocols

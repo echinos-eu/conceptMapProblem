@@ -14,8 +14,8 @@ build:
   script:
     - npm install -g fsh-sushi
     - chmod +x ./_updatePublisher.sh
-  #  - chmod +x ./_genonce.sh
-    - ./_updatePublisher.sh -y
+    - chmod +x ./_genonce.sh
+  #  - ./_updatePublisher.sh -y
     - ./_genonce.sh
   artifacts:
     name: "$CI_PROJECT_NAME"

@@ -200,9 +200,8 @@ fabric.properties
 .idea/modules.xml
 .idea/vcs.xml
 /fsh-generated/*
-/temp/*
 #/input-cache/*
-/input-cache/
+#/input-cache/
 /temp/
 
 

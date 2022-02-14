@@ -13,8 +13,8 @@ build:
     - export _JAVA_OPTIONS="-Xmx11g -Xms4g"
   script:
     - npm install -g fsh-sushi
-#    - chmod +x ./_updatePublisher.sh
-    - chmod +x ./_genonce.sh
+    - chmod +x ./_updatePublisher.sh
+  #  - chmod +x ./_genonce.sh
     - ./_updatePublisher.sh -y
     - ./_genonce.sh
   artifacts:

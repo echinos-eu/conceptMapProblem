@@ -7,6 +7,8 @@ Description: "Substanzen, welche gegenwärtig noch keinen ATC code haben."
 * #tremelimumab "Tremelimumab"
 * #anti-lag-3 "Anti-LAG-3"
 * #selumetinib "Selumetinib"
+* #elacestrant "Elacestrant"
+* #sacituzumab-govitecan "Sacituzumab Govitecan"
 
 CodeSystem: TemporarySubstances
 Id: temporary-substances

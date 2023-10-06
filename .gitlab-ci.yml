@@ -12,7 +12,7 @@ build:
   before_script:
     - export _JAVA_OPTIONS="-Xmx8g -Xms4g"
   script:
-    - sushi
+#    - sushi
     - java -Xmx4G -jar /opt/publisher/publisher.jar -ig .
   artifacts:
     name: "$CI_PROJECT_NAME"

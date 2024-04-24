@@ -5,17 +5,15 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: molit.fhir.common-terminology
 canonical: http://molit.eu/fhir
-version: 0.2.0
+version: 0.3.0
 name: TerminologyImplementationGuide
 title: MOLIT Common Terminology IG package
 description: MOLIT Common Terminology IG package
-status: draft
-publisher: Molit Institute gGmbH
-contact:
-  - name: Molit Institute gGmbH
-    telecom:
-      - system: email
-        value: mailto:info@molit.eu
+status: active
+publisher:
+  name: Molit Institute gGmbH
+  url: https://molit.eu
+  email: info@molit.eu
 fhirVersion: 4.0.1
 parameters:
   apply-publisher: true
@@ -23,7 +21,7 @@ parameters:
   no-narrative: [CodeSystem/*, ValueSet/*, ConceptMap/*]
   no-validate: [CodeSystem/*, ValueSet/*]
 
-copyrightYear: 2020+
+copyrightYear: 2024+
 releaseLabel: ci-build
 #dependencies:
 #  hl7.fhir.uv.genomics-reporting: dev
